@@ -1,0 +1,22 @@
+{
+  "name": "a02-cvunc",
+  "version": "1.0.0",
+  "description": "a02 Assignment Submission",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdmar3-comp426/a02-cvunc.git"
+  },
+  "author": "Cole Vahey",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/jdmar3-comp426/a02-cvunc/issues"
+  },
+  "homepage": "https://github.com/jdmar3-comp426/a02-cvunc#readme",
+  "dependencies": {
+    "browser-sync": "^2.27.5"
+  }
+}
